@@ -1,3 +1,4 @@
 [submodule "http"]
 	path = http
+	branch = isysd
 	url = git@bitbucket.org:isysd/io-http.git
